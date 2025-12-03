@@ -15,6 +15,7 @@ phases:
   pre_build:
     commands:
       - echo "Starting pre-build..."
+      - cd helloworld-awslambda1
       - sam --version
   build:
     commands:
