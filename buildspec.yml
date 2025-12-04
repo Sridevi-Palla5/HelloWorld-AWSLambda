@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    STACK_NAME: hello-lambda-stack
+    STACK_NAME: helloworld-awslambda1
     AWS_REGION: ap-south-2
 
 phases:
